@@ -1,0 +1,21 @@
+.chatBox{
+	width:90%;
+	height: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	border:1px solid black;
+}
+
+input[type=text] {
+  width: 88%;
+  height: 50px;
+  font-size:50px;
+  position: absolute;
+  bottom:0;
+}
+#messages { 
+	font-size: 50px;
+	margin: 0; 
+	padding: 0; 
+	list-style-type: none;
+}
